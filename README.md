@@ -1,5 +1,5 @@
 # Age-Calculator-Tools-PHP-Script
-A PHP Tools That users can Calculate Age.
+A PHP Tools That users can Calculate Age. I tested it in PHP 7.
 
 Demo: https://agecalculator.horje.com
 
